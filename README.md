@@ -11,11 +11,9 @@
 │   ├── config.json
 │   └── passport.js
 │   
-│ 
 ├── models
 │   ├── index.js
 │   └── user.js
-│ 
 │ 
 ├── public
 │   ├── js
@@ -23,20 +21,22 @@
 │   │   ├── members.js
 │   │   └── signup.js
 │   │
-│   └── stylesheets  
-│       └── style.css
-│
+│   ├── stylesheets  
+│   │   └── style.css
+│   │
+│   ├── login.html
+│   ├── members.html
+│   └── signup.html
+│ 
+│ 
 │
 ├── routes
 │   ├── api-routes.js
 │   └── html-routes.js
 │ 
-│ 
 ├── node_modules
 │ 
-│ 
 ├── server.js
-│ 
 │ 
 └── package.json
 
@@ -55,6 +55,29 @@
 
 ```
 
+## Phase 2: Adding the static files for view model.
+
+```
+.
+│ 
+├── public
+│   ├── stylesheets  
+│   │   └── style.css    ===> Added
+│   │
+│   ├── login.html       ===> Added
+│   ├── members.html     ===> Added
+│   └── signup.html      ===> Added
+│
+├── routes
+│   └── html-routes.js   ===> Added
+│ 
+├── node_modules
+│ 
+├── server.js   ===> Updated
+│ 
+└── package.json
+
+```
 
 
 
