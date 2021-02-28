@@ -35,7 +35,26 @@
 ├── node_modules
 │ 
 │ 
+├── server.js
+│ 
+│ 
 └── package.json
 
+```
+
+## Phase 1: Setting up the basic express server.
 
 ```
+.
+│ 
+├── node_modules
+│ 
+├── server.js
+│ 
+└── package.json
+
+```
+
+
+
+
