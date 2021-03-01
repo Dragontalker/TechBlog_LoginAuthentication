@@ -55,9 +55,13 @@ Ready? Let's start!
 
 ## 4. __Sequelize as ORM__
 
-## MVC ( Model View Controller)
+## 5. __Npm package: bcrpyt__
 
-### Model
+## 6. __Npm package: passport__
+
+## __7. Understanding the MVC components__
+
+### _7.a Model_
 
 ```
 .  
@@ -69,7 +73,7 @@ Ready? Let's start!
     └── user.js         
 ```
 
-### View
+### _7.b View_
 ```
 .
 └── public     
@@ -81,7 +85,7 @@ Ready? Let's start!
     └── signup.html
 ```
 
-### Controller
+### _7.c Controller_
 ```
 .
 ├── config
