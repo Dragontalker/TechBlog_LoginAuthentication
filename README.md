@@ -1,5 +1,7 @@
 # Tech Blog - Reverse Engineering
 
+## [Walkthrough Video](https://drive.google.com/file/d/1ABR82_Y_Qe5RuKFd3vxjX3ImYKJ2pWiV/view)
+
 ## __1. Introduction__
 
 When joining a new team as a full stack developer, you will be expected to inspect a lot of code that was made by developers who worked on the project before. Therefore, being able to dissect the code and understanding the underlying logic of the code is a key skill for a professional full stack developer. 
