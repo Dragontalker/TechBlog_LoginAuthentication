@@ -114,7 +114,7 @@ Ready? Let's get started!
 
 ## __3.a. Sequelize as ORM__
 
-Sequelize has many useful features, where we will be only using two of them in this project. If you are interested in Sequalize, check the official documents on their website: https://sequelize.org/master/.
+Sequelize has many useful features, where we will be only using two of them in this project. If you are interested in Sequalize, check the official documents on their [website](https://sequelize.org/master/).
 
 The two functions we will be using are `create` and `findOne`.
 
